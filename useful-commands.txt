@@ -1,0 +1,18 @@
+git clone https://github.com/ManjulaPaluru/Selenium-Projects.git
+cd Selenium-Projects
+git status
+git add .idea seleniumProject.iml src
+git status
+git checkout -b 10-18-2021
+git status
+git commit -m "Adding initial testcases to the project"
+git config --global user.email "manjula.paluru@gmail.com"
+git config --global user.name "ManjulaPaluru"
+git commit -m "Adding initial testcases to the project"
+git status
+dir
+git checkout main
+dir
+git push origin 10-18-2021
+git branch
+git pull
